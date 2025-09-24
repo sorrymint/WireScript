@@ -371,3 +371,5 @@ area "Garage" {
     }
 }
 ```
+
+For a more complete example look at [`SmallHomeExample.wire`](SmallHomeExample.wire).
